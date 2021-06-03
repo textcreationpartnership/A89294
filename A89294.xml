@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More newes from Hull. Or, a most happy and fortunate prevention, of a most hellish and divelish plot, occasioned by some unquiet and discontented spirits, against the town of Hull; endeavouring to command their admittance by casting balls of wild-fire into the town, which by policie and entreatie they could not obtain. Also, the humble petition of the bayliffes, burgesses, and inhabitants of Ludlow, in the county of Salop, under the hands of their corporation, and the liberties thereof.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89294</idno><idno type="EEBO-CITATION">99871305</idno>
+  <idno type="VID">156643</idno>
+  <idno type="EEBO-PROQUEST">2248515808</idno>
+  
+            <idno type="STC">Wing M2711</idno>
+            <idno type="STC">Thomason E145_15</idno>
+            <idno type="PROQUEST">99871305</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871305e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156643)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E145[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More newes from Hull. Or, a most happy and fortunate prevention, of a most hellish and divelish plot, occasioned by some unquiet and discontented spirits, against the town of Hull; endeavouring to command their admittance by casting balls of wild-fire into the town, which by policie and entreatie they could not obtain. Also, the humble petition of the bayliffes, burgesses, and inhabitants of Ludlow, in the county of Salop, under the hands of their corporation, and the liberties thereof.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Cooper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Hull(England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Ludlow(England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156643:1"/>
+            <p>MORE NEWES FROM HVLL.</p>
+            <p>OR, A most Happy and Fortunate Prevention, of a most Hellish and Divelish Plot, occasioned by some unquiet and discontented spirits, against the Town of <hi>Hull;</hi> Endeavouring to command their Admittance by casting Balls of Wild-fire into the Town, wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch by Policie and Entreatie they could not obtain.</p>
+            <p>ALSO, THE HUMBLE PETITION Of the Bayliffes, Burgesses, and Inhabitants of <hi>Ludlow,</hi> in the County of Salop, under the hands of their Corporation, and the Liberties thereof.</p>
+            <p>LONDON. Printed for <hi>Richard Cooper.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156643:2"/>
+            <pb facs="tcp:156643:2"/>
+            <head>
+               <hi>TO THE KINGS MOST Excellent Majestie, Lords and Commons, in this present Par<g ref="char:EOLhyphen"/>liament assembled.</hi> The Humble Petition of Us, the Bay<g ref="char:EOLhyphen"/>liffes, Burgesses, and Inhabitants of <hi>Ludlow,</hi> in the County of <hi>Salop,</hi> un<g ref="char:EOLhyphen"/>der the hands of our Corporation, and the Liberties thereof.</head>
+            <opener>
+               <hi>Humbly Sh<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing,</hi>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Town of <hi>Ludlow</hi> is a walled Town, and for many ages past, hath been (in respect of healthful Sci<g ref="char:EOLhyphen"/>tuation) esteemed a fit and convenient place for the Prince of <hi>Wales;</hi> (His Majestie having a fair Castle there<g ref="char:EOLhyphen"/>unto adjoyning) and in regard of the conveniencie for all <hi>Wales</hi> and the Mar<g ref="char:EOLhyphen"/>ches,
+<pb facs="tcp:156643:3"/> the chief place and Residence of the Lord President and Councell in the Mar<g ref="char:EOLhyphen"/>ches of <hi>Wales,</hi> ever since the erection of that Court, which began in the Reign of King <hi>Edward</hi> the fourth, by which means great conflux of people did resort to the said Town, to have Justice administred unto them, in their causes depending be<g ref="char:EOLhyphen"/>fore the said Councell.</p>
+            <p>The Inhabitants thereof for entertain<g ref="char:EOLhyphen"/>ment of such Sutors, did dispose and make fit their Houses, and laid out all their Stocks in making provision for that purpose, and by that means they maintained their families, relieved the poor, and paid all taxes laid upon the Town, being many housholds and di<g ref="char:EOLhyphen"/>vers thousand souls dwelling in the said Town. But now sithence the Jurisdiction of the said Court of the Councell in the Marches of <hi>Wales</hi> hath been questioned in this present Parliament, there hath been little resort to the said Town, and thereby their provision for the last Win<g ref="char:EOLhyphen"/>ter lies upon their hands, and have no
+<pb facs="tcp:156643:3"/> means to get any thing for their present maintainance. But spend their stockes, whereby many families are already much decayed in their Estates, and the greatest part of the Inhabitants wil in short time grow so poor, that they will not be able to provide maintainance for their fami<g ref="char:EOLhyphen"/>lies, much lesse to relieve the poor, or pay any taxes imposed upon them, if the Jurisdiction of that Court should be ta<g ref="char:EOLhyphen"/>ken away, and thereby they deprived of their means of livelihood; the said Town having no Navigable River, or any Com<g ref="char:EOLhyphen"/>mon Road or means of trading to sup<g ref="char:EOLhyphen"/>port their Estates; but their wives and children are like to fall into great po<g ref="char:EOLhyphen"/>vertie and miserie, and will be the utter undoing of thousand poor soules, which heretofore did support and maintain themselves, and were helpfull to others.</p>
+            <p>Wherefore having hereby laid open and presented our Estates to your most Excellent Majestie and Parliament, we humbly desire the same may be taken,
+<pb facs="tcp:156643:4"/> that the said Jurisdiction may be esta<g ref="char:EOLhyphen"/>blished as to your Majestie, and the wisedome of the Parliament, shall be thought best for the advancement of justice, the good and benefit of this part of the Kingdome, who have for a long time lived happily, peaceably and plentifully, under that government; and that we and our posteritie may not be exposed to utter ruine and de<g ref="char:EOLhyphen"/>struction.</p>
+            <closer>And your Petitioners as in all duty will daily pray for your Maiestie and Par<g ref="char:EOLhyphen"/>liament.
+<signed>Subscribed, By —
+<list>
+                     <item>Bayliffes.
+<list>
+                           <item>THO. HEATH.</item>
+                           <item>WILL. COVLEVD<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>E.</item>
+                        </list>
+                     </item>
+                     <item>Justices.
+<list>
+                           <item>EDVV. JONES.</item>
+                           <item>JOHN PATSHET.</item>
+                        </list>
+                     </item>
+                     <item>RICHARD FLETCHER Rector with 300 hands.</item>
+                     <item>HENRY E<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>LLSTON Esq; Steward of the Castle.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:156643:4"/>
+            <head>Newes from Hull.</head>
+            <p>IT is most strange and admirable beyond the corru<g ref="char:EOLhyphen"/>ption and belief of any ordinary capacity, to think of the diversity and danger of the severall Plots and pra<g ref="char:EOLhyphen"/>ctises which have of latter times bin attempted, &amp; put in execution, partly against the generall peace and pro<g ref="char:EOLhyphen"/>sperity of this Kingdome, partly against the quiet and tranquillity of particular places and persons. And these. Plots have taken Birth, and bin fomented by some unquiet and discontented spirits, who could not obtain the fruition and security of their own inventi<g ref="char:EOLhyphen"/>ons: but by disjoynting and disordering the publike welfare. It would be too tedious to trouble the Reader with a Recapitulation of particular mischievous at<g ref="char:EOLhyphen"/>tempts, the distempers and dangers of this Kingdome are made too familiar to every dull vnderstanding, and every true-hearted subject cannot but with grief bef<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<g ref="char:EOLhyphen"/>ting a publique calamity apprehend, and grow sensible of every occasioned distraction, and by his prayers to God, and his industry, labour all such succéeding inten<g ref="char:EOLhyphen"/>tions, which tend to the dishonor of his Majestie, and the ruine of the Common-wealth. Besides these for<g ref="char:EOLhyphen"/>reign sturs and commotions, which although they were acted beyond the seas, yet have much troubled the peace of this Nation. There arose some civil dissentions, and not many dais were past, when we did happily conceive that a generall peace would bespread this Iland; but a breach was made at <hi>Hull,</hi> that breach was scarce made up, but a more terrible and dangerous hazard of the Town of <hi>Hull</hi> hath bin attempted, and there arose not many days since in those parts, a number of most seditious and tumultuous spirits, who without al que<g ref="char:EOLhyphen"/>stion were rather stirred vp by fury then judgment,
+<pb facs="tcp:156643:5"/> and led on rather by discontent and faction, then by af<g ref="char:EOLhyphen"/>fection either to the r King and Countrey.</p>
+            <p>There <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rose some, I say, whose aymes would not be faithfull, nor intentions honest, who had a strange resolution of a most vnheard of desire, to compasse by mischief and ruine, what by words and intreaty they could not obtain. These ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing gathered a head toge<g ref="char:EOLhyphen"/>ther, and now being <hi>bellum multorum capitum,</hi> a beast of many heads, a most confused tumult, without que<g ref="char:EOLhyphen"/>stion with a r<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all intention of mischief, cast Balls of wild-fire into the Town of <hi>Hul<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which Balls were set on fire, and thrown into the town, by which malicious attempt some hurt was done, but not so much, tis thought as was by the Actors expected: for by the care and vigilancy of the Magistrates of that town, the fire was most happily staid, before it could take possession of the bu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldings. It is generally supposed, that the A<g ref="char:EOLhyphen"/>ctors in this Plot, had forecast by this means to get possession of the Towne, and while the Inhabitants should bee faithfully implyed in the extinguishing and prohibiting of the Procéedings of the flames, these ill-affected members would be as busie in promoting their own desires, and took opportunity and advantage of their care and diligence, to finish and obtain their own purposes, and by this means to surprize the town, with all its strength and power belonging vnto it, and then being so well strengthned by the Magazine that lay there treasured vp: to work their own designs, and perfect what they had as yet but Plotted. This is the most probable conjecture of their attempt, but thanks be to God, the fire was staid, and their intentions pre<g ref="char:EOLhyphen"/>vented.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
